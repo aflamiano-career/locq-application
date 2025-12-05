@@ -14,14 +14,25 @@ Make sure the following are installed on your machine:
 
 ## Installation Steps
 1. Clone the repository
-```git clone https://github.com/aflamiano-career/locq-application.git```
+```
+git clone https://github.com/aflamiano-career/locq-application.git
+cd locq-application
+```
 2. Install Project Dependencies
-```npm install```
+```
+npm install
+```
 3. Install Playwright Browsers
-```npx playwright install```
+```
+npx playwright install
+```
 
 ## How to run the tests
 1. Run all tests
-```npx playwright test```
+```
+npx playwright test
+```
 2. View the test reports
-```npx playwright show-report```
+```
+npx playwright show-report
+```
